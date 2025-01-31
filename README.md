@@ -31,10 +31,10 @@ This project focuses on data wrangling and business insights analysis of a **Sup
 
 ## 📁 Repository Structure
 ```
-├── data/		  # Raw and cleaned datasets
-├── notebooks/	  # Jupyter Notebook with full data wrangling
-├── reports/	  # PDF reports for data wrangling and business insights
-├── README.md	  # Project documentation
+├── Python Project Data - Supermarket Sales and Cleaned_Supermarket_Sales   # Raw and cleaned datasets
+├── data_wrangling.ipynb                                                    # Jupyter Notebook with full data wrangling
+├── Data Wrangling Report and Business Insights Report                      # PDF reports for data wrangling and business insights
+├── README.md	                                                             # Project documentation
 ```
 
 ## 🚀 How to Use This Repository
