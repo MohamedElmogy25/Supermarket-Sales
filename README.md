@@ -49,7 +49,7 @@ This project focuses on data wrangling and business insights analysis of a **Sup
 3. Open the Jupyter Notebook to explore data wrangling steps.
 
 ## ✨ Authors & Acknowledgments
-- **Author**: [MOhammed Elmogy]
+- **Author**: [Mohammed Elmogy]
 - **Acknowledgment**: Data sourced from the Supermarket Sales dataset.
 
 ## 📜 License
